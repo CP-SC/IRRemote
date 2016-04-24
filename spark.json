@@ -1,0 +1,7 @@
+{
+  "name": "remote",
+  "author": "Christoph Stocker",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "Particle port of IRRemote for Arduino"
+}
